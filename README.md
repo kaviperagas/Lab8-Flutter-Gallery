@@ -1,3 +1,11 @@
+![ss6pm](https://user-images.githubusercontent.com/81624794/121898861-6c224980-cd56-11eb-823a-8bdafb53c60a.png)
+![ss7pm](https://user-images.githubusercontent.com/81624794/121898871-6dec0d00-cd56-11eb-8a05-c22ac65b14c1.png)
+![ssFirebase](https://user-images.githubusercontent.com/81624794/121898872-6e84a380-cd56-11eb-8f31-d6cb6e32c6be.png)
+![ssStorage](https://user-images.githubusercontent.com/81624794/121898874-6f1d3a00-cd56-11eb-845b-e7344f494f36.png)
+![Proof of running app in real device](https://user-images.githubusercontent.com/81624794/121898875-6f1d3a00-cd56-11eb-96a0-7f09e2508bed.png)
+https://user-images.githubusercontent.com/81624794/121898977-8d833580-cd56-11eb-9ac5-51ff7086cfa2.mp4
+
+
 # flutter_gallery
 
 A new Flutter project.
